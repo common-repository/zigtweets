@@ -1,0 +1,26 @@
+
+.zigtweets-admin h2 { margin:0 0 15px 0; }
+.zigtweets-admin p { margin:0 0 15px 0; }
+.zigtweets-admin .strong { font-weight:bold; }
+.zigtweets-admin .center { text-align:center; }
+.zigtweets-admin .right { text-align:right; }
+.zigtweets-admin .floatRight { float:right; display:inline; }
+.zigtweets-admin .clearer { height:0px; clear:both; line-height:0px; overflow:hidden; font-size:0; }
+.zigtweets-admin .wrap-left { float:left; width:70%; }
+.zigtweets-admin .wrap-right { float:right; width:30%; }
+.zigtweets-admin .donate form { float:right; text-align:right; width:150px; }
+.zigtweets-admin .col-pad { padding-right:15px; }
+.zigtweets-admin table.widefat { margin-bottom:15px; width:99%; }
+.zigtweets-admin img.icon { vertical-align:middle; margin-bottom:1px; }
+.zigtweets-admin img.floatRight { margin-bottom:0; }
+
+table.form-table input.checkbox { vertical-align:baseline; }
+
+table.form-table .nowrap { white-space:nowrap; }
+table.form-table .right { text-align:right; }
+table.form-table .strong { font-weight:bold; }
+table.form-table tr td .smallish-text { width:100px; }
+
+table.form-table tr.topborder th,
+table.form-table tr.topborder td { border-top:1px solid #d1e5ee; }
+

@@ -1,0 +1,28 @@
+
+.zigtweets {
+	float: left;
+	clear: left;
+
+}
+
+.zigtweets  li {
+	background-image: url('../img/tweet.png');
+	background-repeat: no-repeat;	
+	background-position: 0px 4px;
+	padding-left: 30px;
+	padding-bottom: 10px;
+	float: left;
+	clear: left;
+	list-style-type: none;
+}
+
+.zigtweets  li a {
+	font-weight: bold;	
+}
+
+.zigtweets .twitter_time {
+	color: #999;
+	font-size: 12px;
+	font-style: italic;	
+	font-weight: normal;
+}
